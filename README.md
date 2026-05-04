@@ -40,6 +40,8 @@ We encourage contributors to:
 * Improve existing implementations
 * Optimize performance or readability
 * Add new features (CLI support, file input, etc.)
+* Don't forget to add your name in CONTRIBUTING.md
+* Feel free to customize my code and remind me if there were any issues
 
 ---
 
